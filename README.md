@@ -31,3 +31,4 @@ Python, aiogram 3, SQLite, APScheduler. Деплой: Ubuntu VPS, systemd.
 ![Список долгов](screenshots/debts.png)
 ![Пасхалка](screenshots/eggs.png)
 ![Добавление](screenshots/add.png)
+![Статистика](screenshots/stats.png)
