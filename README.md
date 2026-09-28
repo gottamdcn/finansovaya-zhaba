@@ -26,3 +26,8 @@ Python, aiogram 3, SQLite, APScheduler. Деплой: Ubuntu VPS, systemd.
 - `scheduler.py` — напоминания и отчёты
 - `config.py` — настройки из `.env`
 - `phrases.py`, `milestones.py` — тексты и достижения бота
+## Скриншоты
+![Старт](screenshots/start.png)
+![Список долгов](screenshots/debts.png)
+![Статистика](screenshots/stats.png)
+![Пасхалка](screenshots/eggs.png)
