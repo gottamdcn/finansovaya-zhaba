@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite3
+__pycache__/
+venv/
+.venv/
+scp.exe
+DEPLOY.md
+zhaba.service
+DEPLOY.md
+zhaba.service
